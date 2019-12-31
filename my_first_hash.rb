@@ -5,7 +5,7 @@ def my_hash ; {"Maryland foods" => "steamed crabs"}
 end
 
 
-def shipping_manifest = {
+def shipping_manifest ; {
   "the_manifest" /n> "whale bone corsets",
   "whale bone corsets",
   "whale bone corsets",
