@@ -6,7 +6,7 @@ end
 
 
 def shipping_manifest = {
-  "the_manifest" => "whale bone corsets",
+  "the_manifest" /n> "whale bone corsets",
   "whale bone corsets",
   "whale bone corsets",
   "whale bone corsets",
